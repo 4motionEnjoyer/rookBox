@@ -1,3 +1,4 @@
+![alt text](https://github.com/4motionEnjoyer/rookBox/blob/main/rookBox_logo.png?raw=true)
 rookBox, a small sigint/hacking tool.
 
 The current assembly consists of:
